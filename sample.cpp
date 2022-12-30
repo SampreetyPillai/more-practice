@@ -12,6 +12,9 @@ int main(){
     }
   
   int myname;
+  
+  int newarr[myname];
+  //All elements of array are stored here
   cin>>myname;
  return 0; 
 }
